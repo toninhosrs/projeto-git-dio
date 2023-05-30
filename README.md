@@ -2,8 +2,6 @@
 
 Repositório criado para o Desafio de Projeto.
 
-
-
 ## Contem:
 
-- Lista de comando úteis do Git
+* Lista de comando úteis do Git
