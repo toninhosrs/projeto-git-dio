@@ -12,7 +12,7 @@ mkdir = cria uma nova pasta
 
 cd .. = retorna um nivel ou sai de uma pasta para um nivel inferior
 
-git config --global user.email "seuemail@seuprovedor.com.br"
+git config --global user.email "seu email aqui"
 identifica o email do usuario
 
 git config --global user.name "seu nickname"
