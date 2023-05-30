@@ -19,3 +19,12 @@ git config --global user.name "seu nickname"
 indentifica o usuario 
 
 git add * = adiciona todos os arquivos na pasta
+
+git commit -m "commit inicial" = comitar o que está sendo realizado
+
+git status  = verifica estado dos arquivos / diretorios
+
+echo > nomedoarquivo.md = cria arquivo
+
+git push -u origin master
+envia arquivos / diretorios para o repositorio remoto
